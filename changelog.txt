@@ -1,3 +1,6 @@
+v5
+- Fixed Share Sheet Support Again
+
 v4
 + Added Changelog
 - Fixed Share Sheet Support
