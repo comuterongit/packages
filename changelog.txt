@@ -1,6 +1,9 @@
+v4
++ Added Changelog
+- Fixed Share Sheet Support
+
 v3
 + Added Share Sheet Support
-+ Added Changelog
 
 v2
 + Added Update Engine
