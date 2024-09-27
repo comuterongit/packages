@@ -1,6 +1,12 @@
+v8
++ Performance fixes
++ Added option for sound; more sounds soon
++ Added a setup button for screentime users
+
 v7
 + All menus now have custom icons
 + Added welcome screen (made with ScreenKit)
++ Added the long awaited back button
 
 v6
 + Added the option to run shared URL's in incognito mode
