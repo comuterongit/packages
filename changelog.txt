@@ -1,3 +1,7 @@
+v6
++ Added the option to run shared URL's in incognito mode
++ Added the option to skip the share sheet popup
+
 v5
 - Fixed Share Sheet Support Again
 
