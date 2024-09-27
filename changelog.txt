@@ -1,3 +1,7 @@
+v7
++ All menus now have custom icons
++ Added welcome screen (made with ScreenKit)
+
 v6
 + Added the option to run shared URL's in incognito mode
 + Added the option to skip the share sheet popup
