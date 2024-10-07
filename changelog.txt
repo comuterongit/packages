@@ -1,3 +1,21 @@
+v9
++ Changed all icons with section-based background colors
++ Moved all options from the previous "Start Browsing" section to the main menu
++ Added "Open Bookmark"
++ Added "Bookmark Manager"
++ Added an option delete the entire shortcut data and re-read the welcome screen
++ Added an option to pause and resume history
++ Moved "Check for Updates" to main menu
++ "Contact" now opens a submenu
++ Added an option in "Contact" to join my Discord server
+/ The "Back" button was renamed into "Home"
+/ Renamed "Bypass Setup" to "Screen Time Setup"
+/ UnblockedWeb is now pinned in the mac menu bar by default
+/ The browser filename was renamed from "🔐UnblockedWeb" to "Internet"
+- Temporarily removed Share Sheet support
+- Removed Incognito Mode
+- Removed sound experiment
+
 v8
 + Performance fixes
 + Added option for sound; more sounds soon
