@@ -1,3 +1,8 @@
+v11
++ Added "Popular" section with most used pages
++ Added even more search engines (tiktok, yahoo!)
++ Added recommendadions to the search engine list
+
 v10
 + Re-added share sheet support. Input will be used as default when pressing "Enter URL"
 + You can now choose your search engine from a list
