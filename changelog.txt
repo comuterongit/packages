@@ -1,3 +1,8 @@
+v10
++ Re-added share sheet support. Input will be used as default when pressing "Enter URL"
++ You can now choose your search engine from a list
+/ Minor bugfixes
+
 v9
 + Changed all icons with section-based background colors
 + Moved all options from the previous "Start Browsing" section to the main menu
