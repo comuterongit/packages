@@ -1,9 +1,9 @@
-v10 "Share and search"
+v10
 + Re-added share sheet support. Input will be used as default when pressing "Enter URL"
 + You can now choose your search engine from a list
 / Minor bugfixes
 
-v9 "Revamped shortcut"
+v9
 + Changed all icons with section-based background colors
 + Moved all options from the previous "Start Browsing" section to the main menu
 + Added "Open Bookmark"
@@ -21,32 +21,32 @@ v9 "Revamped shortcut"
 - Removed Incognito Mode
 - Removed sound experiment
 
-v8 "The sound update"
+v8
 + Performance fixes
 + Added option for sound; more sounds soon
 + Added a setup button for screentime users
 
-v7 "The UI update"
+v7
 + All menus now have custom icons
 + Added welcome screen (made with ScreenKit)
 + Added the long awaited back button
 
-v6 "Shares enhancements"
+v6
 + Added the option to run shared URL's in incognito mode
 + Added the option to skip the share sheet popup
 
-v5 "Minor fix"
+v5
 - Fixed Share Sheet Support Again
 
-v4 "The change update"
+v4
 + Added Changelog
 - Fixed Share Sheet Support
 
-v3 "The share update"
+v3
 + Added Share Sheet Support
 
-v2 "The update update"
+v2
 + Added Update Engine
 
-v1 "UnblockedWeb Q Edition"
+v1
 + Initial Release
