@@ -1,3 +1,8 @@
+v12
++ You can now lock the shortcut with a passcode
++ Added an option to remove your passcode
+- Removed facebook from popular section
+
 v11
 + Added "Popular" section with most used pages
 + Added even more search engines (tiktok, yahoo!)
