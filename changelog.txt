@@ -1,3 +1,7 @@
+v12.1
++ Entering your passcode wrong 5 times in a row, will now remove all data
+/ Fixed discord in "Popular"
+
 v12
 + You can now lock the shortcut with a passcode
 + Added an option to remove your passcode
