@@ -1,3 +1,8 @@
+v14
++ Introducing the UnblockedWeb News Page: UnblockedWebNOW
++ Added UnblockedWebNOW to home menu
+/ Fixed a typo
+
 v12.1
 + Entering your passcode wrong 5 times in a row, will now remove all data
 / Fixed discord in "Popular"
