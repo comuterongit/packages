@@ -1,3 +1,9 @@
+v15
++ A new one-time pop-up explaining that this is the current final version
++ Added a "link of the week" option to the home menu
+/ Fixed some bugs
+- Removed UnblockedWebNOW from the home menu
+
 v14
 + Introducing the UnblockedWeb News Page: UnblockedWebNOW
 + Added UnblockedWebNOW to home menu
