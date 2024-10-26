@@ -1,3 +1,14 @@
+v16
++ You can now apply for the beta (head to the settings to do so)
++ Added categories to the "Popular Pages" section
++ Added RoutineHub to the popular pages section
++ Fixed bookmarks (this took 7 updates, holy cow)
+/ Changed the greeting screen
+/ You can now delete multiple bookmarks at once
+/ Page of the week link will now be displayed as a subtitle
+/ Changed "Tweet Me!" to "Tweet Us!"
+/ Changed the URL in "Tweet Us!"
+
 v15
 + A new one-time pop-up explaining that this is the current final version
 + Added a "link of the week" option to the home menu
