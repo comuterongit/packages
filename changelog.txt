@@ -1,3 +1,11 @@
+v17
++ Huge performance fix
++ Added UnblockedWebHUB to the popular pages
+/ Renamed "Join the Discord!" to "Join our Discord"
+/ Changed the discord link
+- Removed the "return" monolouge
+- Removed the alert that appeared when pressing pause/resume history
+
 v16
 + You can now apply for the beta (head to the settings to do so)
 + Added categories to the "Popular Pages" section
