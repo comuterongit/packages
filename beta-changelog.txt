@@ -1,0 +1,14 @@
+==[KEYS]==
+[BETA] - A feature which will have to be improved and/or is highly unstable. Sometimes, a reason will be given after a ";" of why this feature is classified as [BETA]
+[BETA INTERNAL] - A feature that is exclusive to the beta program
++ - This symbol will be used when a feature gets added
+/ - The slash represents a bug fix or minor change
+- - The dash is used when a feature is removed
+
+v18a
++ [BETA] Added a new share sheet menu
++ [BETA] Preparing for another large performance fix; unsure about stability and security
++ [BETA INTERNAL] Added "Terminate All" option; delete all data and stop the shortcut immediately
+/ [BETA INTERNAL] Changed the welcome screen
+/ Fixed Page of the Week not appearing in history
+/ Fixed Popular Pages not appearing in history
