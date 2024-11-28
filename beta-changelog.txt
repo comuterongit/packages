@@ -1,9 +1,0 @@
-v18a
-+ [BETA] Added a new share sheet menu
-+ [BETA] Preparing for another large performance fix; unsure about stability and security
-+ [BETA INTERNAL] Added "Terminate All" option; delete all data and stop the shortcut immediately
-/ [BETA INTERNAL] Changed the welcome screen
-/ Fixed Page of the Week not appearing in history
-/ Fixed Popular Pages not appearing in history
-- [BETA INTERNAL] Removed Apply for Beta option
-- [BETA INTERNAL] Removed Checking for Updates
