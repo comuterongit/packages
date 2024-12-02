@@ -1,3 +1,19 @@
+v18
++ Added a new share sheet menu
++ Added Yahoo! as a default search engine
+/ Fixed a bug where your search engine was set to a system message when pressing "Home"
+/ Fixed a small spelling mistake
+/ Fixed a bug where exiting some menus would attempt to open them as a URL
+/ Fixed a bug where the shortcut would re-run after closing a URL
+/ Another Performance Fix
+/ Added an alert which shows when shortcut is first run
+/ Fixed a bug in Bookmark Manager, where you could insert lines into a bookmark name
+/ Renamed main menu file from "void.vcf" to "Main Menu.vcf"
+/ Fixed a bug where some actions (such as updating) would re-open the main menu
+/ Selecting from your history list now copies the selected link to your clipboard
+/ Deleting your history now confirms that your history has been deleted
+/ Removing your passcode now confirms that you have removed your passcode
+
 v17
 + Huge performance fix
 + Added UnblockedWebHUB to the popular pages
