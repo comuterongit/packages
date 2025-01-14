@@ -1,4 +1,4 @@
-v19
+v19 (Releasing Soon)
 + New Privacy Policies. You will have to agree to them when using the shortcut.
 + Added "Data Manager"
 + You can now import/export your save data
