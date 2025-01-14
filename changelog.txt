@@ -12,6 +12,7 @@ v19
 / "Delete History" has been moved to the Data Manager
 
 v18
++ Added a "Random Page" menu item
 + Added a new share sheet menu
 + Added Yahoo! as a default search engine
 / Fixed a bug where your search engine was set to a system message when pressing "Home"
@@ -26,6 +27,7 @@ v18
 / Selecting from your history list now copies the selected link to your clipboard
 / Deleting your history now confirms that your history has been deleted
 / Removing your passcode now confirms that you have removed your passcode
+- Removed the link of the week
 
 v17
 + Huge performance fix
