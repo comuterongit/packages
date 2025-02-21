@@ -1,3 +1,14 @@
+v20
++ "Open URL" now opens a submenu
++ Added a page cleaner button that redirects you to 12ft.io
++ UnblockedWeb Q Edition is now UnblockedWeb Lunar
++ Updated the Update Engine
+/ Fixed a bug in which shortcut input couldn't be opened in normal mode
+/ Shortened the DuckDuckGo option in the search engine selection screen
+/ Changed the featured search engines
+/ Changed the error message for deleting bookmarks when no bookmarks are avaliable
+/ The incorrect passcode error screen now shows the shortcut version
+
 v19
 + New Privacy Policies. You will have to agree to them when using the shortcut.
 + Added "Data Manager"
