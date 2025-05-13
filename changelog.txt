@@ -1,3 +1,22 @@
+v21 (Releasing Soon)
++ Added an "AI" menu option
++ The "Random Page" feature is now toggleable in the settings
++ AI features are toggleable in the settings
++ The "Popular Pages" tab is now toggleable in the settings
++ Added a credits tab
++ Added Unduck Google as a search engine
++ Some settings are moving from their own files to "settings.json" (Phase 1 Migration)
++ Added a "Message from the devs" pop up (Functions similar to MOTD)
++ MOTD is toggelable in the settings
+/ Changed the Twitter contact mention
+/ Unduck is now the default search engine
+/ Added Terms of Service agreement
+/ Fixed the update engine
+/ Renamed "Contact" to "Join us!"
+/ Changed the "No Internet" error
+/ Error Codes are being added (Phase 1 Introduction)
+- Attempted shrinking the shortcut size by removing unused text from the VCARD menus
+
 v20
 + "Open URL" now opens a submenu
 + Added a page cleaner button that redirects you to 12ft.io
