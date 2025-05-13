@@ -1,4 +1,4 @@
-v21 (Releasing Soon)
+v21
 + Added an "AI" menu option
 + The "Random Page" feature is now toggleable in the settings
 + AI features are toggleable in the settings
